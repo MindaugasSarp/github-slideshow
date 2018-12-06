@@ -1,6 +1,6 @@
-i ---
+---
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+kaip sekasi su vi?
 Use the left arrow to go back!
